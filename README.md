@@ -1,1 +1,1 @@
-# Detecting-color-with-OpenCV-and-python
+# Detecting-colour-with-OpenCV-and-python
